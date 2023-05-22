@@ -1,0 +1,25 @@
+1. Bigram model - English
+error rate by word:      0.0540917815389984 (2170 errors out of 40117)
+error rate by sentence:  0.655882352941176 (1115 errors out of 1700)
+
+2. Trigram model - English
+error rate by word:       0.05012837450457412  (2011 errors out of 40117)
+error rate by sentence:   0.6258823529411764  (1064 errors out of 1700)
+
+3. Bigram model - Japanese
+error rate by word:       0.06286114515846612  (359 errors out of 5711)
+error rate by sentence:   0.1368124118476728  (97 errors out of 709)
+
+4. Trigram model - Japanese
+error rate by word:       0.06163544037821748  (352 errors out of 5711)
+error rate by sentence:   0.1382228490832158  (98 errors out of 709)
+
+5. Bigram model - Bulgarian
+error rate by word:       0.11594202898550725  (688 errors out of 5934)
+error rate by sentence:   0.7512562814070352  (299 errors out of 398)
+
+6. Trigram model - Bulgarian
+error rate by word:       0.11054937647455342  (656 errors out of 5934)
+error rate by sentence:   0.7311557788944724  (291 errors out of 398)
+
+
